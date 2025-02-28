@@ -7,8 +7,6 @@ echo "We are learning Github and Git"
 echo "Happy Mahashivratri all of you"
 echo "This changes are done by Prajwal"
 echo "its 27.02.2025 today"
-echo "Heyy Smit, I have bulid this code check it once before deployment"
-echo "Btw how you are feeling right now after talking with her."
 
 echo "I am working in REQ092348"
 echo "Adding new data"
